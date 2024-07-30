@@ -65,6 +65,7 @@ This repository contains a curated list of awesome open-source libraries for pro
 - [RAGFlow](https://github.com/infiniflow/ragflow) (`InfiniFlow`) ![](https://img.shields.io/github/stars/infiniflow/ragflow.svg?style=social) RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [llmware](https://github.com/llmware-ai/llmware) (`LLMware.ai`) ![](https://img.shields.io/github/stars/llmware-ai/llmware.svg?style=social) Unified framework for building enterprise RAG pipelines with small, specialized models
 - [llama-agentic-system](https://github.com/meta-llama/llama-agentic-system) (`Meta`) ![](https://img.shields.io/github/stars/meta-llama/llama-agentic-system.svg?style=social) Agentic components of the Llama Stack APIs
+- [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) (`Markr Inc.`) ![](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG.svg?style=social) AutoML tool for RAG
 
 ## LLM Testing / Monitoring
 - [promptflow](https://github.com/microsoft/promptflow) (`Microsoft`) ![](https://img.shields.io/github/stars/microsoft/promptflow.svg?style=social) Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
