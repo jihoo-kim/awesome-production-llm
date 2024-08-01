@@ -1,11 +1,15 @@
 # Awesome-Production-LLM
 This repository contains a curated list of awesome open-source libraries for production large language models.
+
+### Newly updated
+- [2024.08.01] A new category [🍳LLM Cookbook / Examples](#llm-cookbook--examples) has been added.
+ 
 ### Quick links
 ||||
 |---|---|---|
 | [📚LLM Data Preprocessing](#llm-data-preprocessing) | [🤖LLM Training / Finetuning](#llm-training--finetuning) | [📊LLM Evaluation / Benchmark](#llm-evaluation--benchmark) |
 | [🚀LLM Serving / Inference](#llm-serving--inference) | [🛠️LLM Application / RAG](#llm-application--rag) | [🧐LLM Testing / Monitoring](#llm-testing--monitoring) |
-| [🛡️LLM Guardrails / Security](#llm-guardrails--security) |  |  |
+| [🛡️LLM Guardrails / Security](#llm-guardrails--security) | [🍳LLM Cookbook / Examples](#llm-cookbook--examples)  |  |
 
 
 ## LLM Data Preprocessing
@@ -81,6 +85,17 @@ This repository contains a curated list of awesome open-source libraries for pro
 - [PurpleLlama](https://github.com/meta-llama/PurpleLlama) (`Meta`) ![](https://img.shields.io/github/stars/meta-llama/PurpleLlama.svg?style=social) Set of tools to assess and improve LLM security.
 - [llm-guard](https://github.com/protectai/llm-guard) (`ProtectAI`) ![](https://img.shields.io/github/stars/protectai/llm-guard.svg?style=social) The Security Toolkit for LLM Interactions
 
+## LLM Cookbook / Examples
+- [openai-cookbook](https://github.com/openai/openai-cookbook) (`OpenAI`) ![](https://img.shields.io/github/stars/openai/openai-cookbook.svg?style=social) Examples and guides for using the OpenAI API
+- [gemini-cookbook](https://github.com/google-gemini/cookbook) (`Google`) ![](https://img.shields.io/github/stars/google-gemini/cookbook.svg?style=social) Examples and guides for using the Gemini API.
+- [anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) (`Anthropic`) ![](https://img.shields.io/github/stars/anthropics/anthropic-cookbook.svg?style=social) A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+- [amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop) (`AWS`) ![](https://img.shields.io/github/stars/aws-samples/amazon-bedrock-workshop.svg?style=social) This is a workshop designed for Amazon Bedrock a foundational model service.
+- [Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook) (`Microsoft`) ![](https://img.shields.io/github/stars/microsoft/Phi-3CookBook.svg?style=social) This is a Phi-3 book for getting started with Phi-3. Phi-3, a family of open AI models developed by Microsoft.
+- [mistral-cookbook](https://github.com/mistralai/cookbook) (`Mistral`) ![](https://img.shields.io/github/stars/mistralai/cookbook.svg?style=social) The Mistral Cookbook features examples contributed by Mistralers and our community, as well as our partners. 
+- [amazon-bedrock-samples](https://github.com/aws-samples/amazon-bedrock-samples) (`AWS`) ![](https://img.shields.io/github/stars/aws-samples/amazon-bedrock-samples.svg?style=social) This repository contains examples for customers to get started using the Amazon Bedrock Service. This contains examples for all available foundational models
+- [cohere-notebooks](https://github.com/cohere-ai/notebooks) (`Cohere`) ![](https://img.shields.io/github/stars/cohere-ai/notebooks.svg?style=social) Code examples and jupyter notebooks for the Cohere Platform
+- [gemma-cookbook](https://github.com/google-gemini/gemma-cookbook) (`Google`) ![](https://img.shields.io/github/stars/google-gemini/gemma-cookbook.svg?style=social) A collection of guides and examples for the Gemma open models from Google.
+- [upstage-cookbook](https://github.com/UpstageAI/cookbook) (`Upstage`) ![](https://img.shields.io/github/stars/UpstageAI/cookbook.svg?style=social) Upstage api examples and guides
 
 ## Acknowledgements
 This project is inspired by [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning).
