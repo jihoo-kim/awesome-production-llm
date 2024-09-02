@@ -2,6 +2,7 @@
 This repository contains a curated list of awesome open-source libraries for production large language models.
 
 ### Newly updated
+- [2024.09.03] A new category [🎓LLM Courses / Education](#llm-courses--education) has been added.
 - [2024.08.01] A new category [🍳LLM Cookbook / Examples](#llm-cookbook--examples) has been added.
  
 ### Quick links
@@ -9,7 +10,7 @@ This repository contains a curated list of awesome open-source libraries for pro
 |---|---|---|
 | [📚LLM Data Preprocessing](#llm-data-preprocessing) | [🤖LLM Training / Finetuning](#llm-training--finetuning) | [📊LLM Evaluation / Benchmark](#llm-evaluation--benchmark) |
 | [🚀LLM Serving / Inference](#llm-serving--inference) | [🛠️LLM Application / RAG](#llm-application--rag) | [🧐LLM Testing / Monitoring](#llm-testing--monitoring) |
-| [🛡️LLM Guardrails / Security](#llm-guardrails--security) | [🍳LLM Cookbook / Examples](#llm-cookbook--examples)  |  |
+| [🛡️LLM Guardrails / Security](#llm-guardrails--security) | [🍳LLM Cookbook / Examples](#llm-cookbook--examples)  | [🎓LLM Courses / Education](#llm-courses--education) |
 
 
 ## LLM Data Preprocessing
@@ -96,6 +97,14 @@ This repository contains a curated list of awesome open-source libraries for pro
 - [cohere-notebooks](https://github.com/cohere-ai/notebooks) (`Cohere`) ![](https://img.shields.io/github/stars/cohere-ai/notebooks.svg?style=social) Code examples and jupyter notebooks for the Cohere Platform
 - [gemma-cookbook](https://github.com/google-gemini/gemma-cookbook) (`Google`) ![](https://img.shields.io/github/stars/google-gemini/gemma-cookbook.svg?style=social) A collection of guides and examples for the Gemma open models from Google.
 - [upstage-cookbook](https://github.com/UpstageAI/cookbook) (`Upstage`) ![](https://img.shields.io/github/stars/UpstageAI/cookbook.svg?style=social) Upstage api examples and guides
+
+## LLM Courses / Education
+- [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) (`Microsoft`) ![](https://img.shields.io/github/stars/microsoft/generative-ai-for-beginners.svg?style=social) 18 Lessons, Get Started Building with Generative AI
+- [llm-course](https://github.com/mlabonne/llm-course) ![](https://img.shields.io/github/stars/mlabonne/llm-course.svg?style=social) Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+- [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) ![](https://img.shields.io/github/stars/rasbt/LLMs-from-scratch.svg?style=social) Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step
+- [hands-on-llms](https://github.com/iusztinpaul/hands-on-llms) ![](https://img.shields.io/github/stars/iusztinpaul/hands-on-llms.svg?style=social) Learn about LLMs, LLMOps, and vector DBs for free by designing, training, and deploying a real-time financial advisor LLM system ~ source code + video & reading materials
+- [llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) (`DataTalksClub`) ![](https://img.shields.io/github/stars/DataTalksClub/llm-zoomcamp.svg?style=social) LLM Zoomcamp - a free online course about building a Q&A system
+- [llm-twin-course](https://github.com/decodingml/llm-twin-course) (`DecodingML`) ![](https://img.shields.io/github/stars/decodingml/llm-twin-course.svg?style=social) Learn for free how to build an end-to-end production-ready LLM & RAG system using LLMOps best practices: ~ source code + 12 hands-on lessons
 
 ## Acknowledgements
 This project is inspired by [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning).
