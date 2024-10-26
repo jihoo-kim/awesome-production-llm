@@ -2,16 +2,17 @@
 This repository contains a curated list of awesome open-source libraries for production large language models.
 
 ### Newly updated
+- [2024.10.26] A new category [🤖LLM Agent Benchmarks](#llm-agent-benchmarks) has been added.
 - [2024.09.03] A new category [🎓LLM Courses / Education](#llm-courses--education) has been added.
 - [2024.08.01] A new category [🍳LLM Cookbook / Examples](#llm-cookbook--examples) has been added.
  
 ### Quick links
 ||||
 |---|---|---|
-| [📚LLM Data Preprocessing](#llm-data-preprocessing) | [🤖LLM Training / Finetuning](#llm-training--finetuning) | [📊LLM Evaluation / Benchmark](#llm-evaluation--benchmark) |
+| [📚LLM Data Preprocessing](#llm-data-preprocessing) | [🏋️‍♂️LLM Training / Finetuning](#llm-training--finetuning) | [📊LLM Evaluation Framework](#llm-evaluation-framework) |
 | [🚀LLM Serving / Inference](#llm-serving--inference) | [🛠️LLM Application / RAG](#llm-application--rag) | [🧐LLM Testing / Monitoring](#llm-testing--monitoring) |
 | [🛡️LLM Guardrails / Security](#llm-guardrails--security) | [🍳LLM Cookbook / Examples](#llm-cookbook--examples)  | [🎓LLM Courses / Education](#llm-courses--education) |
-
+| [🤖LLM Agent Benchmarks](#llm-agent-benchmarks) | |
 
 ## LLM Data Preprocessing
 - [data-juicer](https://github.com/modelscope/data-juicer) (`ModelScope`) ![](https://img.shields.io/github/stars/modelscope/data-juicer.svg?style=social) A one-stop data processing system to make data higher-quality, juicier, and more digestible for (multimodal) LLMs!
@@ -35,7 +36,7 @@ This repository contains a curated list of awesome open-source libraries for pro
 - [xtuner](https://github.com/InternLM/xtuner) (`InternLM`) ![](https://img.shields.io/github/stars/InternLM/xtuner.svg?style=social) An efficient, flexible and full-featured toolkit for fine-tuning LLM (InternLM2, Llama3, Phi3, Qwen, Mistral, ...)
 - [nanotron](https://github.com/huggingface/nanotron) (`HuggingFace`) ![](https://img.shields.io/github/stars/huggingface/nanotron.svg?style=social) Minimalistic large language model 3D-parallelism training
 
-## LLM Evaluation / Benchmark
+## LLM Evaluation Framework
 - [evals](https://github.com/openai/evals) (`OpenAI`) ![](https://img.shields.io/github/stars/openai/evals.svg?style=social) Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) (`EleutherAI`) ![](https://img.shields.io/github/stars/EleutherAI/lm-evaluation-harness.svg?style=social) A framework for few-shot evaluation of language models.
 - [opencompass](https://github.com/open-compass/opencompass) (`OpenCompass`) ![](https://img.shields.io/github/stars/open-compass/opencompass.svg?style=social) - OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.
@@ -105,6 +106,14 @@ This repository contains a curated list of awesome open-source libraries for pro
 - [hands-on-llms](https://github.com/iusztinpaul/hands-on-llms) ![](https://img.shields.io/github/stars/iusztinpaul/hands-on-llms.svg?style=social) Learn about LLMs, LLMOps, and vector DBs for free by designing, training, and deploying a real-time financial advisor LLM system ~ source code + video & reading materials
 - [llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) (`DataTalksClub`) ![](https://img.shields.io/github/stars/DataTalksClub/llm-zoomcamp.svg?style=social) LLM Zoomcamp - a free online course about building a Q&A system
 - [llm-twin-course](https://github.com/decodingml/llm-twin-course) (`DecodingML`) ![](https://img.shields.io/github/stars/decodingml/llm-twin-course.svg?style=social) Learn for free how to build an end-to-end production-ready LLM & RAG system using LLMOps best practices: ~ source code + 12 hands-on lessons
+
+## LLM Agent Benchmarks
+- [SWE-bench](https://github.com/princeton-nlp/SWE-bench) (`Princeton-NLP`) ![](https://img.shields.io/github/stars/princeton-nlp/SWE-bench.svg?style=social) SWE-bench is a benchmark for evaluating large language models on real world software issues collected from GitHub.
+- [MMAU (axlearn)](https://github.com/apple/axlearn/tree/main/docs/research/mmau) (`Apple`) ![](https://img.shields.io/github/stars/apple/axlearn.svg?style=social) The Massive Multitask Agent Understanding (MMAU) benchmark is designed to evaluate the performance of large language models (LLMs) as agents across a wide variety of tasks.
+- [mle-bench](https://github.com/openai/mle-bench/) (`OpenAI`) ![](https://img.shields.io/github/stars/openai/mle-bench.svg?style=social) MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering
+- [WindowsAgentArena](https://github.com/microsoft/WindowsAgentArena) (`Microsoft`) ![](https://img.shields.io/github/stars/microsoft/WindowsAgentArena.svg?style=social) Windows Agent Arena (WAA) 🪟 is a scalable OS platform for testing and benchmarking of multi-modal AI agents.
+- [DevAI (agent-as-a-judge)](https://github.com/metauto-ai/agent-as-a-judge) (`METAUTO.ai`) ![](https://img.shields.io/github/stars/metauto-ai/agent-as-a-judge.svg?style=social) DevAI, a benchmark consisting of 55 realistic AI development tasks with 365 hierarchical user requirements.
+- [natural-plan](https://github.com/google-deepmind/natural-plan) (`Google DeepMind`) ![](https://img.shields.io/github/stars/google-deepmind/natural-plan.svg?style=social) Natural Plan is a realistic planning benchmark in natural language containing 3 key tasks: Trip Planning, Meeting Planning, and Calendar Scheduling.
 
 ## Acknowledgements
 This project is inspired by [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning).
