@@ -71,6 +71,7 @@ This repository contains a curated list of awesome open-source libraries for pro
 - [haystack](https://github.com/deepset-ai/haystack) (`Deepset`) ![](https://img.shields.io/github/stars/deepset-ai/haystack.svg?style=social) LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. 
 - [llmware](https://github.com/llmware-ai/llmware) (`LLMware.ai`) ![](https://img.shields.io/github/stars/llmware-ai/llmware.svg?style=social) Unified framework for building enterprise RAG pipelines with small, specialized models
 - [llama-agentic-system](https://github.com/meta-llama/llama-agentic-system) (`Meta`) ![](https://img.shields.io/github/stars/meta-llama/llama-agentic-system.svg?style=social) Agentic components of the Llama Stack APIs
+- [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) (`Markr Inc.`) ![](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG.svg?style=social) AutoML tool for RAG
 
 ## LLM Testing / Monitoring
 - [promptflow](https://github.com/microsoft/promptflow) (`Microsoft`) ![](https://img.shields.io/github/stars/microsoft/promptflow.svg?style=social) Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
