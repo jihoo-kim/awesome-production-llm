@@ -50,6 +50,7 @@ This repository contains a curated list of awesome open-source projects for prod
 - 📌[simple-evals](https://github.com/openai/simple-evals) (`OpenAI`) ![](https://img.shields.io/github/stars/openai/simple-evals.svg?style=social) This repository contains a lightweight library for evaluating language models. 
 - [lighteval](https://github.com/huggingface/lighteval) (`HuggingFace`) ![](https://img.shields.io/github/stars/huggingface/lighteval.svg?style=social) LightEval is a lightweight LLM evaluation suite that Hugging Face has been using internally with the recently released LLM data processing library datatrove and LLM training library nanotron.
 - [evalverse](https://github.com/UpstageAI/evalverse) (`Upstage`) ![](https://img.shields.io/github/stars/UpstageAI/evalverse.svg?style=social) The Universe of Evaluation. All about the evaluation for LLMs.
+- [promptfoo](https://github.com/promptfoo/promptfoo)(`Promptfoo`) ![](https://img.shields.io/github/stars/promptfoo/promptfoo.svg?style=social) Promptfoo is an open-source tool designed to test and evaluate Large Language Model (LLM) applications. It enables developers to systematically assess prompts, models, and Retrieval-Augmented Generation (RAG) setups against predefined test cases, ensuring reliable and secure AI applications.
 
 ## LLM Serving / Inference
 - [ollama](https://github.com/ollama/ollama) (`Ollama`) ![](https://img.shields.io/github/stars/ollama/ollama.svg?style=social) Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
