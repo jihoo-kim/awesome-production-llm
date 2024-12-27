@@ -2,18 +2,20 @@
 This repository contains a curated list of awesome open-source projects for production large language models.
 
 ### Newly updated
-- [2024.11.02] 🔥23 new projects have been updated. (marked with 📌)
+- [2024.12.27] 🔥A new cateogry [⛏️LLM Extraction / Parsing](#llm-extraction--parsing) has been added.
 - [2024.10.26] A new category [🤖LLM Agent Benchmarks](#llm-agent-benchmarks) has been added.
 - [2024.09.03] A new category [🎓LLM Courses / Education](#llm-courses--education) has been added.
 - [2024.08.01] A new category [🍳LLM Cookbook / Examples](#llm-cookbook--examples) has been added.
+  
+Newly added projects are marked with 📌.
  
 ### Quick links
 ||||
 |---|---|---|
 | [📚LLM Data Preprocessing](#llm-data-preprocessing) | [🏋️‍♂️LLM Training / Finetuning](#llm-training--finetuning) | [📊LLM Evaluation Framework](#llm-evaluation-framework) |
-| [🚀LLM Serving / Inference](#llm-serving--inference) | [🛠️LLM Application / RAG](#llm-application--rag) | [🧐LLM Testing / Monitoring](#llm-testing--monitoring) |
-| [🛡️LLM Guardrails / Security](#llm-guardrails--security) | [🍳LLM Cookbook / Examples](#llm-cookbook--examples)  | [🎓LLM Courses / Education](#llm-courses--education) |
-| [🤖LLM Agent Benchmarks](#llm-agent-benchmarks) | |
+| [🚀LLM Serving / Inference](#llm-serving--inference) | [🛠️LLM Application / RAG](#llm-application--rag) | [⛏️LLM Extraction / Parsing](#llm-extraction--parsing) |
+| [🧐LLM Testing / Monitoring](#llm-testing--monitoring) | [🛡️LLM Guardrails / Security](#llm-guardrails--security) | [🍳LLM Cookbook / Examples](#llm-cookbook--examples) |
+| [🎓LLM Courses / Education](#llm-courses--education) | [🤖LLM Agent Benchmarks](#llm-agent-benchmarks) |
 
 ## LLM Data Preprocessing
 - [data-juicer](https://github.com/modelscope/data-juicer) (`ModelScope`) ![](https://img.shields.io/github/stars/modelscope/data-juicer.svg?style=social) A one-stop data processing system to make data higher-quality, juicier, and more digestible for (multimodal) LLMs!
@@ -21,14 +23,14 @@ This repository contains a curated list of awesome open-source projects for prod
 - [dolma](https://github.com/allenai/dolma) (`AllenAI`) ![](https://img.shields.io/github/stars/allenai/dolma.svg?style=social) Data and tools for generating and inspecting OLMo pre-training data.
 - [NeMo-Curator](https://github.com/NVIDIA/NeMo-Curator) (`NVIDIA`) ![](https://img.shields.io/github/stars/NVIDIA/NeMo-Curator.svg?style=social) Scalable toolkit for data curation
 - [dataverse](https://github.com/UpstageAI/dataverse) (`Upstage`) ![](https://img.shields.io/github/stars/UpstageAI/dataverse.svg?style=social) The Universe of Data. All about data, data science, and data engineering
-- 📌[EasyInstruct](https://github.com/zjunlp/EasyInstruct) (`ZJUNLP`) ![](https://img.shields.io/github/stars/zjunlp/EasyInstruct.svg?style=social) An Easy-to-use Instruction Processing Framework for LLMs.
-- 📌[data-prep-kit](https://github.com/IBM/data-prep-kit) (`IBM`) ![](https://img.shields.io/github/stars/IBM/data-prep-kit.svg?style=social) Open source project for data preparation of LLM application builders
+- [EasyInstruct](https://github.com/zjunlp/EasyInstruct) (`ZJUNLP`) ![](https://img.shields.io/github/stars/zjunlp/EasyInstruct.svg?style=social) An Easy-to-use Instruction Processing Framework for LLMs.
+- [data-prep-kit](https://github.com/IBM/data-prep-kit) (`IBM`) ![](https://img.shields.io/github/stars/IBM/data-prep-kit.svg?style=social) Open source project for data preparation of LLM application builders
 - [dps](https://github.com/EleutherAI/dps) (`EleutherAI`) ![](https://img.shields.io/github/stars/EleutherAI/dps.svg?style=social) Data processing system for polyglot
 
 ## LLM Training / Finetuning
 - [nanoGPT](https://github.com/karpathy/nanoGPT) (`karpathy`) ![](https://img.shields.io/github/stars/karpathy/nanoGPT.svg?style=social) The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) ![](https://img.shields.io/github/stars/hiyouga/LLaMA-Factory.svg?style=social) A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
-- 📌[unsloth](https://github.com/unslothai/unsloth) (`Unsloth AI`) ![](https://img.shields.io/github/stars/unslothai/unsloth.svg?style=social) Finetune Llama 3.2, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
+- [unsloth](https://github.com/unslothai/unsloth) (`Unsloth AI`) ![](https://img.shields.io/github/stars/unslothai/unsloth.svg?style=social) Finetune Llama 3.2, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
 - [peft](https://github.com/huggingface/peft) (`HuggingFace`) ![](https://img.shields.io/github/stars/huggingface/peft.svg?style=social) PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
 - [llama-recipes](https://github.com/meta-llama/llama-recipes) (`Meta`) ![](https://img.shields.io/github/stars/meta-llama/llama-recipes.svg?style=social) Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node GPUs.
 - [litgpt](https://github.com/Lightning-AI/litgpt) (`LightningAI`) ![](https://img.shields.io/github/stars/Lightning-AI/litgpt.svg?style=social) 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
@@ -38,16 +40,16 @@ This repository contains a curated list of awesome open-source projects for prod
 - [gpt-neox](https://github.com/EleutherAI/gpt-neox) (`EleutherAI`) ![](https://img.shields.io/github/stars/EleutherAI/gpt-neox.svg?style=social) An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries
 - [torchtune](https://github.com/pytorch/torchtune) (`PyTorch`) ![](https://img.shields.io/github/stars/pytorch/torchtune.svg?style=social) A Native-PyTorch Library for LLM Fine-tuning
 - [xtuner](https://github.com/InternLM/xtuner) (`InternLM`) ![](https://img.shields.io/github/stars/InternLM/xtuner.svg?style=social) An efficient, flexible and full-featured toolkit for fine-tuning LLM (InternLM2, Llama3, Phi3, Qwen, Mistral, ...)
-- 📌[torchtitan](https://github.com/pytorch/torchtitan) (`PyTorch`) ![](https://img.shields.io/github/stars/pytorch/torchtitan.svg?style=social) A native PyTorch Library for large model training
+- [torchtitan](https://github.com/pytorch/torchtitan) (`PyTorch`) ![](https://img.shields.io/github/stars/pytorch/torchtitan.svg?style=social) A native PyTorch Library for large model training
 - [nanotron](https://github.com/huggingface/nanotron) (`HuggingFace`) ![](https://img.shields.io/github/stars/huggingface/nanotron.svg?style=social) Minimalistic large language model 3D-parallelism training
 
 ## LLM Evaluation Framework
 - [evals](https://github.com/openai/evals) (`OpenAI`) ![](https://img.shields.io/github/stars/openai/evals.svg?style=social) Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
-- 📌[ragas](https://github.com/explodinggradients/ragas) (`Exploding Gradients`) ![](https://img.shields.io/github/stars/explodinggradients/ragas.svg?style=social) Supercharge Your LLM Application Evaluations
+- [ragas](https://github.com/explodinggradients/ragas) (`Exploding Gradients`) ![](https://img.shields.io/github/stars/explodinggradients/ragas.svg?style=social) Supercharge Your LLM Application Evaluations
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) (`EleutherAI`) ![](https://img.shields.io/github/stars/EleutherAI/lm-evaluation-harness.svg?style=social) A framework for few-shot evaluation of language models.
 - [opencompass](https://github.com/open-compass/opencompass) (`OpenCompass`) ![](https://img.shields.io/github/stars/open-compass/opencompass.svg?style=social) - OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.
 - [deepeval](https://github.com/confident-ai/deepeval) (`ConfidentAI`) ![](https://img.shields.io/github/stars/confident-ai/deepeval.svg?style=social) The LLM Evaluation Framework
-- 📌[simple-evals](https://github.com/openai/simple-evals) (`OpenAI`) ![](https://img.shields.io/github/stars/openai/simple-evals.svg?style=social) This repository contains a lightweight library for evaluating language models. 
+- [simple-evals](https://github.com/openai/simple-evals) (`OpenAI`) ![](https://img.shields.io/github/stars/openai/simple-evals.svg?style=social) This repository contains a lightweight library for evaluating language models. 
 - [lighteval](https://github.com/huggingface/lighteval) (`HuggingFace`) ![](https://img.shields.io/github/stars/huggingface/lighteval.svg?style=social) LightEval is a lightweight LLM evaluation suite that Hugging Face has been using internally with the recently released LLM data processing library datatrove and LLM training library nanotron.
 - [evalverse](https://github.com/UpstageAI/evalverse) (`Upstage`) ![](https://img.shields.io/github/stars/UpstageAI/evalverse.svg?style=social) The Universe of Evaluation. All about the evaluation for LLMs.
 
@@ -59,15 +61,15 @@ This repository contains a curated list of awesome open-source projects for prod
 - [vllm](https://github.com/vllm-project/vllm) ![](https://img.shields.io/github/stars/vllm-project/vllm.svg?style=social) A high-throughput and memory-efficient inference and serving engine for LLMs
 - [guidance](https://github.com/guidance-ai/guidance) (`guidance-ai`) ![](https://img.shields.io/github/stars/guidance-ai/guidance.svg?style=social) A guidance language for controlling large language models.
 - [LiteLLM](https://github.com/BerriAI/litellm) (`BerriAI`) ![](https://img.shields.io/github/stars/BerriAI/litellm.svg?style=social) Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate, Groq (100+ LLMs)
-- 📌[BitNet](https://github.com/microsoft/BitNet) (`Microsoft`) ![](https://img.shields.io/github/stars/microsoft/BitNet.svg?style=social) Official inference framework for 1-bit LLMs
+- [BitNet](https://github.com/microsoft/BitNet) (`Microsoft`) ![](https://img.shields.io/github/stars/microsoft/BitNet.svg?style=social) Official inference framework for 1-bit LLMs
 - [OpenLLM](https://github.com/bentoml/OpenLLM) (`BentoML`) ![](https://img.shields.io/github/stars/bentoml/OpenLLM.svg?style=social) Run any open-source LLMs, such as Llama 3.1, Gemma, as OpenAI compatible API endpoint in the cloud.
 - [text-generation-inference](https://github.com/huggingface/text-generation-inference) (`HuggingFace`) ![](https://img.shields.io/github/stars/huggingface/text-generation-inference.svg?style=social) Large Language Model Text Generation Inference
 - [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (`NVIDIA`) ![](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM.svg?style=social) TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs.
-- 📌[SGLang](https://github.com/sgl-project/sglang) (`sgl-project`) ![](https://img.shields.io/github/stars/sgl-project/sglang.svg?style=social) SGLang is a fast serving framework for large language models and vision language models.
+- [SGLang](https://github.com/sgl-project/sglang) (`sgl-project`) ![](https://img.shields.io/github/stars/sgl-project/sglang.svg?style=social) SGLang is a fast serving framework for large language models and vision language models.
 - [LMDeploy](https://github.com/InternLM/lmdeploy) (`InternLM`) ![](https://img.shields.io/github/stars/InternLM/lmdeploy.svg?style=social) LMDeploy is a toolkit for compressing, deploying, and serving LLMs.
-- 📌[torchchat](https://github.com/pytorch/torchchat) (`PyTorch`) ![](https://img.shields.io/github/stars/pytorch/torchchat.svg?style=social) Run PyTorch LLMs locally on servers, desktop and mobile
+- [torchchat](https://github.com/pytorch/torchchat) (`PyTorch`) ![](https://img.shields.io/github/stars/pytorch/torchchat.svg?style=social) Run PyTorch LLMs locally on servers, desktop and mobile
 - [RouteLLM](https://github.com/lm-sys/RouteLLM)  (`LMSYS`) ![](https://img.shields.io/github/stars/lm-sys/RouteLLM.svg?style=social) A framework for serving and evaluating LLM routers - save LLM costs without compromising quality!
-- 📌[LightLLM](https://github.com/ModelTC/lightllm) (`ModelTC`) ![](https://img.shields.io/github/stars/ModelTC/lightllm.svg?style=social) LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.
+- [LightLLM](https://github.com/ModelTC/lightllm) (`ModelTC`) ![](https://img.shields.io/github/stars/ModelTC/lightllm.svg?style=social) LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.
 
 ## LLM Application / RAG
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) ![](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT.svg?style=social) AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -75,26 +77,46 @@ This repository contains a curated list of awesome open-source projects for prod
 - [dify](https://github.com/langgenius/dify) (`LangGenius`) ![](https://img.shields.io/github/stars/langgenius/dify.svg?style=social) Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 - [MetaGPT](https://github.com/geekan/MetaGPT) ![](https://img.shields.io/github/stars/geekan/MetaGPT.svg?style=social) The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [llama_index](https://github.com/run-llama/llama_index) (`LlamaIndex`) ![](https://img.shields.io/github/stars/run-llama/llama_index.svg?style=social) LlamaIndex is a data framework for your LLM applications
-- 📌[AutoGen](https://github.com/microsoft/autogen) (`Microsoft`) ![](https://img.shields.io/github/stars/microsoft/autogen.svg?style=social) A programming framework for agentic AI
+- 📌[Quivr](https://github.com/QuivrHQ/quivr) (`Quivr`) ![](https://img.shields.io/github/stars/QuivrHQ/quivr.svg?style=social) Opiniated RAG for integrating GenAI in your apps. Focus on your product rather than the RAG. Easy integration in existing products with customisation! Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.
+- [AutoGen](https://github.com/microsoft/autogen) (`Microsoft`) ![](https://img.shields.io/github/stars/microsoft/autogen.svg?style=social) A programming framework for agentic AI
 - [Flowise](https://github.com/FlowiseAI/Flowise) (`FlowiseAI`) ![](https://img.shields.io/github/stars/FlowiseAI/Flowise.svg?style=social) Drag & drop UI to build your customized LLM flow
+- ⬆[RAGFlow](https://github.com/infiniflow/ragflow) (`InfiniFlow`) ![](https://img.shields.io/github/stars/infiniflow/ragflow.svg?style=social) RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [mem0](https://github.com/mem0ai/mem0) (`Mem0`)  ![](https://img.shields.io/github/stars/mem0ai/mem0.svg?style=social) The memory layer for Personalized AI
-- [RAGFlow](https://github.com/infiniflow/ragflow) (`InfiniFlow`) ![](https://img.shields.io/github/stars/infiniflow/ragflow.svg?style=social) RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
-- 📌[crewAI](https://github.com/crewAIInc/crewAI) (`crewAI`) ![](https://img.shields.io/github/stars/crewAIInc/crewAI.svg?style=social) Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+- [crewAI](https://github.com/crewAIInc/crewAI) (`crewAI`) ![](https://img.shields.io/github/stars/crewAIInc/crewAI.svg?style=social) Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [GraphRAG](https://github.com/microsoft/graphrag) (`Microsoft`) ![](https://img.shields.io/github/stars/microsoft/graphrag.svg?style=social) A modular graph-based Retrieval-Augmented Generation (RAG) system
 - [haystack](https://github.com/deepset-ai/haystack) (`Deepset`) ![](https://img.shields.io/github/stars/deepset-ai/haystack.svg?style=social) LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. 
-- 📌[swarm](https://github.com/openai/swarm) (`OpenAI`) ![](https://img.shields.io/github/stars/openai/swarm.svg?style=social) Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
-- 📌[Letta](https://github.com/cpacker/MemGPT) (`Letta`) ![](https://img.shields.io/github/stars/cpacker/MemGPT.svg?style=social) Letta (fka MemGPT) is a framework for creating stateful LLM services.
+- [swarm](https://github.com/openai/swarm) (`OpenAI`) ![](https://img.shields.io/github/stars/openai/swarm.svg?style=social) Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
+- [Letta](https://github.com/letta-ai/letta) (`Letta`) ![](https://img.shields.io/github/stars/letta-ai/letta.svg?style=social) Letta (fka MemGPT) is a framework for creating stateful LLM services.
+- 📌[outlines](https://github.com/dottxt-ai/outlines) (`.TXT`) ![](https://img.shields.io/github/stars/dottxt-ai/outlines.svg?style=social) Structured Text Generation (Make LLMs speak the language of every application.)
+- ⬆[pathway](https://github.com/pathwaycom/pathway) (`Pathway`) ![](https://img.shields.io/github/stars/pathwaycom/pathway.svg?style=social) Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
 - [llmware](https://github.com/llmware-ai/llmware) (`LLMware.ai`) ![](https://img.shields.io/github/stars/llmware-ai/llmware.svg?style=social) Unified framework for building enterprise RAG pipelines with small, specialized models
-- 📌[TaskingAI](https://github.com/TaskingAI/TaskingAI) (`TaskingAI`) ![](https://img.shields.io/github/stars/TaskingAI/TaskingAI.svg?style=social) The open source platform for AI-native application development.
-- 📌[AgentScope](https://github.com/modelscope/agentscope) (`ModelScope`) ![](https://img.shields.io/github/stars/modelscope/agentscope.svg?style=social) Start building LLM-empowered multi-agent applications in an easier way. 
-- 📌[pathway](https://github.com/pathwaycom/pathway) (`Pathway`) ![](https://img.shields.io/github/stars/pathwaycom/pathway.svg?style=social) Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
-- 📌[llama-stack](https://github.com/meta-llama/llama-stack) (`Meta`) ![](https://img.shields.io/github/stars/meta-llama/llama-stack.svg?style=social) Model components of the Llama Stack APIs
+- 📌[browser-use](https://github.com/browser-use/browser-use) (`Browser Use`) ![](https://img.shields.io/github/stars/browser-use/browser-use.svg?style=social) Make websites accessible for AI agents (Browser use is the easiest way to connect your AI agents with the browser.)
+- [TaskingAI](https://github.com/TaskingAI/TaskingAI) (`TaskingAI`) ![](https://img.shields.io/github/stars/TaskingAI/TaskingAI.svg?style=social) The open source platform for AI-native application development.
+- ⬆[llama-stack](https://github.com/meta-llama/llama-stack) (`Meta`) ![](https://img.shields.io/github/stars/meta-llama/llama-stack.svg?style=social) Model components of the Llama Stack APIs
+- [AgentScope](https://github.com/modelscope/agentscope) (`ModelScope`) ![](https://img.shields.io/github/stars/modelscope/agentscope.svg?style=social) Start building LLM-empowered multi-agent applications in an easier way. 
+- ⬆[Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) (`QwenLM`)  ![](https://img.shields.io/github/stars/QwenLM/Qwen-Agent.svg?style=social) Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
 - [llama-stack-apps](https://github.com/meta-llama/llama-stack-apps) (`Meta`) ![](https://img.shields.io/github/stars/meta-llama/llama-stack-apps.svg?style=social) Agentic components of the Llama Stack APIs
-- 📌[Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) (`QwenLM`)  ![](https://img.shields.io/github/stars/QwenLM/Qwen-Agent.svg?style=social) Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
-- 📌[Langroid](https://github.com/langroid/langroid) (`Langroid`) ![](https://img.shields.io/github/stars/langroid/langroid.svg?style=social) Harness LLMs with Multi-Agent Programming
-- 📌[AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) (`Markr Inc.`) ![](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG.svg?style=social) AutoML tool for RAG
-- 📌[AgentOps](https://github.com/AgentOps-AI/agentops) (`AgentOps-AI`) ![](https://img.shields.io/github/stars/AgentOps-AI/agentops.svg?style=social) Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen
-- 📌[Lagent](https://github.com/InternLM/lagent) (`InternLM`) ![](https://img.shields.io/github/stars/InternLM/lagent.svg?style=social) A lightweight framework for building LLM-based agents
+- ⬆[AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) (`Markr Inc.`) ![](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG.svg?style=social) AutoML tool for RAG
+- [Langroid](https://github.com/langroid/langroid) (`Langroid`) ![](https://img.shields.io/github/stars/langroid/langroid.svg?style=social) Harness LLMs with Multi-Agent Programming
+- [AgentOps](https://github.com/AgentOps-AI/agentops) (`AgentOps-AI`) ![](https://img.shields.io/github/stars/AgentOps-AI/agentops.svg?style=social) Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen
+- [Lagent](https://github.com/InternLM/lagent) (`InternLM`) ![](https://img.shields.io/github/stars/InternLM/lagent.svg?style=social) A lightweight framework for building LLM-based agents
+- 📌[Chonkie](https://github.com/chonkie-ai/chonkie) (`Chonkie.ai`) ![](https://img.shields.io/github/stars/chonkie-ai/chonkie.svg?style=social) CHONK your texts with Chonkie - The no-nonsense RAG chunking library
+
+## 🔥LLM Extraction / Parsing
+- 📌[MarkItDown](https://github.com/microsoft/markitdown) (`Microsoft`) ![](https://img.shields.io/github/stars/microsoft/markitdown.svg?style=social) Python tool for converting files and office documents to Markdown.
+- 📌[MinerU](https://github.com/opendatalab/MinerU) (`OpenDataLab`) ![](https://img.shields.io/github/stars/opendatalab/MinerU.svg?style=social) A high-quality tool for convert PDF to Markdown and JSON.
+- 📌[Firecrawl](https://github.com/mendableai/firecrawl) (`Mendable AI`) ![](https://img.shields.io/github/stars/mendableai/firecrawl.svg?style=social) Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+- 📌[Crawl4AI](https://github.com/unclecode/crawl4ai) (`UncleCode`) ![](https://img.shields.io/github/stars/unclecode/crawl4ai.svg?style=social) Crawl4AI: Crawl Smarter, Faster, Freely. For AI (LLMs, AI agents, and data pipelines).
+- 📌[Docling](https://github.com/DS4SD/docling) (`IBM`) ![](https://img.shields.io/github/stars/DS4SD/docling.svg?style=social) Get your documents ready for gen AI
+- 📌[Unstructured](https://github.com/Unstructured-IO/unstructured) (`Unstructured.io`) ![](https://img.shields.io/github/stars/Unstructured-IO/unstructured.svg?style=social) Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
+- 📌[Zerox](https://github.com/getomni-ai/zerox) (`OmniAI`) ![](https://img.shields.io/github/stars/getomni-ai/zerox.svg?style=social) PDF to Markdown with vision models
+- 📌[PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) (`OpenDataLab`) ![](https://img.shields.io/github/stars/opendatalab/PDF-Extract-Kit.svg?style=social) A Comprehensive Toolkit for High-Quality PDF Content Extraction
+- 📌[MegaParse](https://github.com/QuivrHQ/MegaParse) (`Quivr`) ![](https://img.shields.io/github/stars/QuivrHQ/MegaParse.svg?style=social) File Parser optimised for LLM Ingestion with no loss // Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
+- 📌[LlamaParse](https://github.com/run-llama/llama_parse) (`LlamaIndex`) ![](https://img.shields.io/github/stars/run-llama/llama_parse.svg?style=social)
+- 📌[GitIngest](https://github.com/cyclotruc/gitingest) ![](https://img.shields.io/github/stars/cyclotruc/gitingest.svg?style=social) Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
+- 📌[Open-Parse](https://github.com/Filimoa/open-parse) ![](https://img.shields.io/github/stars/Filimoa/open-parse.svg?style=social) Improved file parsing for LLM’s
+- 📌[pdf-extract-api](https://github.com/CatchTheTornado/pdf-extract-api) (`Catch The Tornado`) ![](https://img.shields.io/github/stars/CatchTheTornado/pdf-extract-api.svg?style=social) Document (PDF) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSON or Markdown
+- 📌[nv-ingest](https://github.com/NVIDIA/nv-ingest) (`NVIDIA`) ![](https://img.shields.io/github/stars/NVIDIA/nv-ingest.svg?style=social) NVIDIA Ingest is an early access set of microservices for parsing hundreds of thousands of complex, messy unstructured PDFs and other enterprise documents into metadata and text to embed into retrieval systems.
 
 ## LLM Testing / Monitoring
 - [promptflow](https://github.com/microsoft/promptflow) (`Microsoft`) ![](https://img.shields.io/github/stars/microsoft/promptflow.svg?style=social) Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
@@ -103,7 +125,7 @@ This repository contains a curated list of awesome open-source projects for prod
 - [promptfoo](https://github.com/promptfoo/promptfoo) (`promptfoo`) ![](https://img.shields.io/github/stars/promptfoo/promptfoo.svg?style=social) Test your prompts, agents, and RAGs. Redteaming, pentesting, vulnerability scanning for LLMs. Improve your app's quality and catch problems. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
 - [giskard](https://github.com/Giskard-AI/giskard) (`Giskard`) ![](https://img.shields.io/github/stars/Giskard-AI/giskard.svg?style=social) Open-Source Evaluation & Testing for LLMs and ML models
 - [phoenix](https://github.com/Arize-ai/phoenix) (`ArizeAI`) ![](https://img.shields.io/github/stars/Arize-ai/phoenix.svg?style=social) AI Observability & Evaluation
-- 📌[Opik](https://github.com/comet-ml/opik) (`Comet`) ![](https://img.shields.io/github/stars/comet-ml/opik.svg?style=social) Open-source end-to-end LLM Development Platform
+- [Opik](https://github.com/comet-ml/opik) (`Comet`) ![](https://img.shields.io/github/stars/comet-ml/opik.svg?style=social) Open-source end-to-end LLM Development Platform
 - [agenta](https://github.com/Agenta-AI/agenta) (`Agenta.ai`) ![](https://img.shields.io/github/stars/Agenta-AI/agenta.svg?style=social) The all-in-one LLM developer platform: prompt management, evaluation, human feedback, and deployment all in one place.
 
 ## LLM Guardrails / Security
@@ -138,6 +160,7 @@ This repository contains a curated list of awesome open-source projects for prod
 - [mle-bench](https://github.com/openai/mle-bench/) (`OpenAI`) ![](https://img.shields.io/github/stars/openai/mle-bench.svg?style=social) MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering
 - [WindowsAgentArena](https://github.com/microsoft/WindowsAgentArena) (`Microsoft`) ![](https://img.shields.io/github/stars/microsoft/WindowsAgentArena.svg?style=social) Windows Agent Arena (WAA) is a scalable OS platform for testing and benchmarking of multi-modal AI agents.
 - [DevAI (agent-as-a-judge)](https://github.com/metauto-ai/agent-as-a-judge) (`METAUTO.ai`) ![](https://img.shields.io/github/stars/metauto-ai/agent-as-a-judge.svg?style=social) DevAI, a benchmark consisting of 55 realistic AI development tasks with 365 hierarchical user requirements.
+- [AIOpsLab](https://github.com/microsoft/AIOpsLab) (`Microsoft`) ![](https://img.shields.io/github/stars/microsoft/AIOpsLab.svg?style=social) AIOpsLab is a holistic framework to enable the design, development, and evaluation of autonomous AIOps agents that, additionally, serves the purpose of building reproducible, standardized, interoperable and scalable benchmarks.
 - [natural-plan](https://github.com/google-deepmind/natural-plan) (`Google DeepMind`) ![](https://img.shields.io/github/stars/google-deepmind/natural-plan.svg?style=social) Natural Plan is a realistic planning benchmark in natural language containing 3 key tasks: Trip Planning, Meeting Planning, and Calendar Scheduling.
 
 ## Acknowledgements
