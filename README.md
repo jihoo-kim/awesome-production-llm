@@ -163,5 +163,8 @@ Newly added projects are marked with 📌.
 - 📌[AIOpsLab](https://github.com/microsoft/AIOpsLab) (`Microsoft`) ![](https://img.shields.io/github/stars/microsoft/AIOpsLab.svg?style=social) AIOpsLab is a holistic framework to enable the design, development, and evaluation of autonomous AIOps agents that, additionally, serves the purpose of building reproducible, standardized, interoperable and scalable benchmarks.
 - [natural-plan](https://github.com/google-deepmind/natural-plan) (`Google DeepMind`) ![](https://img.shields.io/github/stars/google-deepmind/natural-plan.svg?style=social) Natural Plan is a realistic planning benchmark in natural language containing 3 key tasks: Trip Planning, Meeting Planning, and Calendar Scheduling.
 
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=jihoo-kim/awesome-production-llm&type=Date)](https://star-history.com/#)
+
 ## Acknowledgements
 This project is inspired by [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning).
