@@ -119,6 +119,7 @@ Newly added projects are marked with 📌.
 - 📌[nv-ingest](https://github.com/NVIDIA/nv-ingest) (`NVIDIA`) ![](https://img.shields.io/github/stars/NVIDIA/nv-ingest.svg?style=social) NVIDIA Ingest is an early access set of microservices for parsing hundreds of thousands of complex, messy unstructured PDFs and other enterprise documents into metadata and text to embed into retrieval systems.
 
 ## LLM Testing / Monitoring
+- [Lava AI Spend](https://lava.so) (`Lava`) Per-tool budget controls and spend limits for AI API keys. Supports 38+ providers through a single OpenAI-compatible endpoint.
 - [promptflow](https://github.com/microsoft/promptflow) (`Microsoft`) ![](https://img.shields.io/github/stars/microsoft/promptflow.svg?style=social) Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 - [langfuse](https://github.com/langfuse/langfuse) (`Langfuse`) ![](https://img.shields.io/github/stars/langfuse/langfuse.svg?style=social) Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more.
 - [evidently](https://github.com/evidentlyai/evidently) (`EvidentlyAI`) ![](https://img.shields.io/github/stars/evidentlyai/evidently.svg?style=social) Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.
