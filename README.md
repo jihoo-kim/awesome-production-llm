@@ -133,6 +133,7 @@ Newly added projects are marked with 📌.
 - [guardrails](https://github.com/guardrails-ai/guardrails) (`GuardrailsAI`) ![](https://img.shields.io/github/stars/guardrails-ai/guardrails.svg?style=social) Adding guardrails to large language models.
 - [PurpleLlama](https://github.com/meta-llama/PurpleLlama) (`Meta`) ![](https://img.shields.io/github/stars/meta-llama/PurpleLlama.svg?style=social) Set of tools to assess and improve LLM security.
 - [llm-guard](https://github.com/protectai/llm-guard) (`ProtectAI`) ![](https://img.shields.io/github/stars/protectai/llm-guard.svg?style=social) The Security Toolkit for LLM Interactions
+- [leashed](https://github.com/dormstern/leashed) (`dormstern`) ![](https://img.shields.io/github/stars/dormstern/leashed.svg?style=social) Policy engine, audit log, and kill switch for AI agents. Allow/deny patterns, time limits, and emergency revocation.
 
 ## LLM Cookbook / Examples
 - [openai-cookbook](https://github.com/openai/openai-cookbook) (`OpenAI`) ![](https://img.shields.io/github/stars/openai/openai-cookbook.svg?style=social) Examples and guides for using the OpenAI API
