@@ -70,6 +70,7 @@ Newly added projects are marked with 📌.
 - [torchchat](https://github.com/pytorch/torchchat) (`PyTorch`) ![](https://img.shields.io/github/stars/pytorch/torchchat.svg?style=social) Run PyTorch LLMs locally on servers, desktop and mobile
 - [RouteLLM](https://github.com/lm-sys/RouteLLM)  (`LMSYS`) ![](https://img.shields.io/github/stars/lm-sys/RouteLLM.svg?style=social) A framework for serving and evaluating LLM routers - save LLM costs without compromising quality!
 - [LightLLM](https://github.com/ModelTC/lightllm) (`ModelTC`) ![](https://img.shields.io/github/stars/ModelTC/lightllm.svg?style=social) LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.
+- [CallStack](https://github.com/alenmanjgafic/callstack) ![](https://img.shields.io/github/stars/alenmanjgafic/callstack.svg?style=social) One API for every LLM — unified gateway for OpenAI, Anthropic, Google Gemini, and DeepSeek with automatic failover, cost tracking, and streaming. OpenAI-compatible drop-in replacement.
 
 ## LLM Application / RAG
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) ![](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT.svg?style=social) AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
