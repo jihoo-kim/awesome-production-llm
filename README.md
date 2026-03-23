@@ -101,6 +101,7 @@ Newly added projects are marked with 📌.
 - [AgentOps](https://github.com/AgentOps-AI/agentops) (`AgentOps-AI`) ![](https://img.shields.io/github/stars/AgentOps-AI/agentops.svg?style=social) Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen
 - [Lagent](https://github.com/InternLM/lagent) (`InternLM`) ![](https://img.shields.io/github/stars/InternLM/lagent.svg?style=social) A lightweight framework for building LLM-based agents
 - 📌[Chonkie](https://github.com/chonkie-ai/chonkie) (`Chonkie.ai`) ![](https://img.shields.io/github/stars/chonkie-ai/chonkie.svg?style=social) CHONK your texts with Chonkie - The no-nonsense RAG chunking library
+- [claw-army/claude-node](https://github.com/claw-army/claude-node) ![](https://img.shields.io/github/stars/claw-army/claude-node.svg?style=social) Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json.
 
 ## 🔥LLM Extraction / Parsing
 - 📌[MarkItDown](https://github.com/microsoft/markitdown) (`Microsoft`) ![](https://img.shields.io/github/stars/microsoft/markitdown.svg?style=social) Python tool for converting files and office documents to Markdown.
