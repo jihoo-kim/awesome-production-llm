@@ -127,12 +127,14 @@ Newly added projects are marked with 📌.
 - [phoenix](https://github.com/Arize-ai/phoenix) (`ArizeAI`) ![](https://img.shields.io/github/stars/Arize-ai/phoenix.svg?style=social) AI Observability & Evaluation
 - [Opik](https://github.com/comet-ml/opik) (`Comet`) ![](https://img.shields.io/github/stars/comet-ml/opik.svg?style=social) Open-source end-to-end LLM Development Platform
 - [agenta](https://github.com/Agenta-AI/agenta) (`Agenta.ai`) ![](https://img.shields.io/github/stars/Agenta-AI/agenta.svg?style=social) The all-in-one LLM developer platform: prompt management, evaluation, human feedback, and deployment all in one place.
+- [arsenal](https://github.com/darshjme/arsenal) ![](https://img.shields.io/github/stars/darshjme/arsenal.svg?style=social) 20 zero-dependency Python libraries covering every LLM agent failure mode in production. 808 tests. Pure stdlib.
 
 ## LLM Guardrails / Security
 - [NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) (`NVIDIA`) ![](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails.svg?style=social) NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
 - [guardrails](https://github.com/guardrails-ai/guardrails) (`GuardrailsAI`) ![](https://img.shields.io/github/stars/guardrails-ai/guardrails.svg?style=social) Adding guardrails to large language models.
 - [PurpleLlama](https://github.com/meta-llama/PurpleLlama) (`Meta`) ![](https://img.shields.io/github/stars/meta-llama/PurpleLlama.svg?style=social) Set of tools to assess and improve LLM security.
 - [llm-guard](https://github.com/protectai/llm-guard) (`ProtectAI`) ![](https://img.shields.io/github/stars/protectai/llm-guard.svg?style=social) The Security Toolkit for LLM Interactions
+- [arsenal](https://github.com/darshjme/arsenal) (`darshjme`) ![](https://img.shields.io/github/stars/darshjme/arsenal.svg?style=social) 20 zero-dependency Python libraries covering LLM agent failure modes in production: routing, guardrails, retry/fallback, circuit-breaking, memory compression, observability, rate limiting, schema validation. 808 tests. Pure stdlib.
 
 ## LLM Cookbook / Examples
 - [openai-cookbook](https://github.com/openai/openai-cookbook) (`OpenAI`) ![](https://img.shields.io/github/stars/openai/openai-cookbook.svg?style=social) Examples and guides for using the OpenAI API
