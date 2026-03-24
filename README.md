@@ -134,7 +134,6 @@ Newly added projects are marked with 📌.
 - [guardrails](https://github.com/guardrails-ai/guardrails) (`GuardrailsAI`) ![](https://img.shields.io/github/stars/guardrails-ai/guardrails.svg?style=social) Adding guardrails to large language models.
 - [PurpleLlama](https://github.com/meta-llama/PurpleLlama) (`Meta`) ![](https://img.shields.io/github/stars/meta-llama/PurpleLlama.svg?style=social) Set of tools to assess and improve LLM security.
 - [llm-guard](https://github.com/protectai/llm-guard) (`ProtectAI`) ![](https://img.shields.io/github/stars/protectai/llm-guard.svg?style=social) The Security Toolkit for LLM Interactions
-- [arsenal](https://github.com/darshjme/arsenal) (`darshjme`) ![](https://img.shields.io/github/stars/darshjme/arsenal.svg?style=social) 20 zero-dependency Python libraries covering LLM agent failure modes in production: routing, guardrails, retry/fallback, circuit-breaking, memory compression, observability, rate limiting, schema validation. 808 tests. Pure stdlib.
 
 ## LLM Cookbook / Examples
 - [openai-cookbook](https://github.com/openai/openai-cookbook) (`OpenAI`) ![](https://img.shields.io/github/stars/openai/openai-cookbook.svg?style=social) Examples and guides for using the OpenAI API
