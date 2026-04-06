@@ -1,6 +1,7 @@
 # Awesome-Production-LLM
 This repository contains a curated list of awesome open-source projects for production large language models.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration with task registry and quality gates. MIT licensed.
 ### Newly updated
 - [2024.12.27] 🔥A new cateogry [⛏️LLM Extraction / Parsing](#llm-extraction--parsing) has been added.
 - [2024.10.26] A new category [🤖LLM Agent Benchmarks](#llm-agent-benchmarks) has been added.
