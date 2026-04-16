@@ -44,6 +44,10 @@ Newly added projects are marked with 📌.
 - [nanotron](https://github.com/huggingface/nanotron) (`HuggingFace`) ![](https://img.shields.io/github/stars/huggingface/nanotron.svg?style=social) Minimalistic large language model 3D-parallelism training
 
 ## LLM Evaluation Framework
+- [FutureAGI traceAI](https://github.com/future-agi/traceAI)
+- [FutureAGI ai-evaluation](https://github.com/future-agi/ai-evaluation)
+- [FutureAGI futureagi-sdk](https://github.com/future-agi/futureagi-sdk)
+
 - [evals](https://github.com/openai/evals) (`OpenAI`) ![](https://img.shields.io/github/stars/openai/evals.svg?style=social) Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 - [ragas](https://github.com/explodinggradients/ragas) (`Exploding Gradients`) ![](https://img.shields.io/github/stars/explodinggradients/ragas.svg?style=social) Supercharge Your LLM Application Evaluations
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) (`EleutherAI`) ![](https://img.shields.io/github/stars/EleutherAI/lm-evaluation-harness.svg?style=social) A framework for few-shot evaluation of language models.
