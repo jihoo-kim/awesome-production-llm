@@ -18,6 +18,7 @@ Newly added projects are marked with 📌.
 | [🎓LLM Courses / Education](#llm-courses--education) | [🤖LLM Agent Benchmarks](#llm-agent-benchmarks) |
 
 ## LLM Data Preprocessing
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 - [data-juicer](https://github.com/modelscope/data-juicer) (`ModelScope`) ![](https://img.shields.io/github/stars/modelscope/data-juicer.svg?style=social) A one-stop data processing system to make data higher-quality, juicier, and more digestible for (multimodal) LLMs!
 - [datatrove](https://github.com/huggingface/datatrove) (`HuggingFace`) ![](https://img.shields.io/github/stars/huggingface/datatrove.svg?style=social) Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.
 - [dolma](https://github.com/allenai/dolma) (`AllenAI`) ![](https://img.shields.io/github/stars/allenai/dolma.svg?style=social) Data and tools for generating and inspecting OLMo pre-training data.
@@ -27,6 +28,7 @@ Newly added projects are marked with 📌.
 - [data-prep-kit](https://github.com/IBM/data-prep-kit) (`IBM`) ![](https://img.shields.io/github/stars/IBM/data-prep-kit.svg?style=social) Open source project for data preparation of LLM application builders
 - [dps](https://github.com/EleutherAI/dps) (`EleutherAI`) ![](https://img.shields.io/github/stars/EleutherAI/dps.svg?style=social) Data processing system for polyglot
 
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline with visual dashboard, one-click install, and auto-update.
 ## LLM Training / Finetuning
 - [nanoGPT](https://github.com/karpathy/nanoGPT) (`karpathy`) ![](https://img.shields.io/github/stars/karpathy/nanoGPT.svg?style=social) The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) ![](https://img.shields.io/github/stars/hiyouga/LLaMA-Factory.svg?style=social) A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
