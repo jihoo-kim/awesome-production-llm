@@ -16,6 +16,7 @@ Newly added projects are marked with 📌.
 | [🚀LLM Serving / Inference](#llm-serving--inference) | [🛠️LLM Application / RAG](#llm-application--rag) | [⛏️LLM Extraction / Parsing](#llm-extraction--parsing) |
 | [🧐LLM Testing / Monitoring](#llm-testing--monitoring) | [🛡️LLM Guardrails / Security](#llm-guardrails--security) | [🍳LLM Cookbook / Examples](#llm-cookbook--examples) |
 | [🎓LLM Courses / Education](#llm-courses--education) | [🤖LLM Agent Benchmarks](#llm-agent-benchmarks) |
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard for production LLM monitoring: GPU utilization tracking, AI workload observability, and CNCF integrations. CNCF Sandbox project.
 
 ## LLM Data Preprocessing
 - [data-juicer](https://github.com/modelscope/data-juicer) (`ModelScope`) ![](https://img.shields.io/github/stars/modelscope/data-juicer.svg?style=social) A one-stop data processing system to make data higher-quality, juicier, and more digestible for (multimodal) LLMs!
