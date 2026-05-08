@@ -61,6 +61,7 @@ Newly added projects are marked with 📌.
 - [vllm](https://github.com/vllm-project/vllm) ![](https://img.shields.io/github/stars/vllm-project/vllm.svg?style=social) A high-throughput and memory-efficient inference and serving engine for LLMs
 - [guidance](https://github.com/guidance-ai/guidance) (`guidance-ai`) ![](https://img.shields.io/github/stars/guidance-ai/guidance.svg?style=social) A guidance language for controlling large language models.
 - [LiteLLM](https://github.com/BerriAI/litellm) (`BerriAI`) ![](https://img.shields.io/github/stars/BerriAI/litellm.svg?style=social) Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate, Groq (100+ LLMs)
+- [OfoxAI](https://ofox.ai) Unified API gateway for 100+ LLMs with native OpenAI, Anthropic, and Gemini protocol support.
 - [BitNet](https://github.com/microsoft/BitNet) (`Microsoft`) ![](https://img.shields.io/github/stars/microsoft/BitNet.svg?style=social) Official inference framework for 1-bit LLMs
 - [OpenLLM](https://github.com/bentoml/OpenLLM) (`BentoML`) ![](https://img.shields.io/github/stars/bentoml/OpenLLM.svg?style=social) Run any open-source LLMs, such as Llama 3.1, Gemma, as OpenAI compatible API endpoint in the cloud.
 - [text-generation-inference](https://github.com/huggingface/text-generation-inference) (`HuggingFace`) ![](https://img.shields.io/github/stars/huggingface/text-generation-inference.svg?style=social) Large Language Model Text Generation Inference
