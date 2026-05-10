@@ -101,8 +101,7 @@ Newly added projects are marked with 📌.
 - [AgentOps](https://github.com/AgentOps-AI/agentops) (`AgentOps-AI`) ![](https://img.shields.io/github/stars/AgentOps-AI/agentops.svg?style=social) Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen
 - [Lagent](https://github.com/InternLM/lagent) (`InternLM`) ![](https://img.shields.io/github/stars/InternLM/lagent.svg?style=social) A lightweight framework for building LLM-based agents
 - 📌[Chonkie](https://github.com/chonkie-ai/chonkie) (`Chonkie.ai`) ![](https://img.shields.io/github/stars/chonkie-ai/chonkie.svg?style=social) CHONK your texts with Chonkie - The no-nonsense RAG chunking library
-
-## 🔥LLM Extraction / Parsing
+- [zero-api-key-web-search](https://github.com/wd041216-bit/zero-api-key-web-search) (`wd041216-bit`) ![](https://img.shields.io/github/stars/wd041216-bit/zero-api-key-web-search.svg?style=social) Free web search toolkit for AI agents with no API keys needed, MCP server ready
 - 📌[MarkItDown](https://github.com/microsoft/markitdown) (`Microsoft`) ![](https://img.shields.io/github/stars/microsoft/markitdown.svg?style=social) Python tool for converting files and office documents to Markdown.
 - 📌[MinerU](https://github.com/opendatalab/MinerU) (`OpenDataLab`) ![](https://img.shields.io/github/stars/opendatalab/MinerU.svg?style=social) A high-quality tool for convert PDF to Markdown and JSON.
 - 📌[Firecrawl](https://github.com/mendableai/firecrawl) (`Mendable AI`) ![](https://img.shields.io/github/stars/mendableai/firecrawl.svg?style=social) Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
