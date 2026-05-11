@@ -52,6 +52,7 @@ Newly added projects are marked with 📌.
 - [simple-evals](https://github.com/openai/simple-evals) (`OpenAI`) ![](https://img.shields.io/github/stars/openai/simple-evals.svg?style=social) This repository contains a lightweight library for evaluating language models. 
 - [lighteval](https://github.com/huggingface/lighteval) (`HuggingFace`) ![](https://img.shields.io/github/stars/huggingface/lighteval.svg?style=social) LightEval is a lightweight LLM evaluation suite that Hugging Face has been using internally with the recently released LLM data processing library datatrove and LLM training library nanotron.
 - [evalverse](https://github.com/UpstageAI/evalverse) (`Upstage`) ![](https://img.shields.io/github/stars/UpstageAI/evalverse.svg?style=social) The Universe of Evaluation. All about the evaluation for LLMs.
+- [ai-evaluation](https://github.com/future-agi/ai-evaluation) (`Future AGI`) ![](https://img.shields.io/github/stars/future-agi/ai-evaluation.svg?style=social) Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge augmentation, guardrail scanners, and AutoEval pipelines with CI/CD support.
 
 ## LLM Serving / Inference
 - [ollama](https://github.com/ollama/ollama) (`Ollama`) ![](https://img.shields.io/github/stars/ollama/ollama.svg?style=social) Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
@@ -127,6 +128,7 @@ Newly added projects are marked with 📌.
 - [phoenix](https://github.com/Arize-ai/phoenix) (`ArizeAI`) ![](https://img.shields.io/github/stars/Arize-ai/phoenix.svg?style=social) AI Observability & Evaluation
 - [Opik](https://github.com/comet-ml/opik) (`Comet`) ![](https://img.shields.io/github/stars/comet-ml/opik.svg?style=social) Open-source end-to-end LLM Development Platform
 - [agenta](https://github.com/Agenta-AI/agenta) (`Agenta.ai`) ![](https://img.shields.io/github/stars/Agenta-AI/agenta.svg?style=social) The all-in-one LLM developer platform: prompt management, evaluation, human feedback, and deployment all in one place.
+- [traceAI](https://github.com/future-agi/traceAI) (`Future AGI`) ![](https://img.shields.io/github/stars/future-agi/traceAI.svg?style=social) Open-source OpenTelemetry-native tracing framework that auto-instruments 20+ AI frameworks and LLM providers, capturing prompts, tokens, latency, and errors.
 
 ## LLM Guardrails / Security
 - [NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) (`NVIDIA`) ![](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails.svg?style=social) NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
