@@ -153,6 +153,9 @@ Newly added projects are marked with 📌.
 - [hands-on-llms](https://github.com/iusztinpaul/hands-on-llms) ![](https://img.shields.io/github/stars/iusztinpaul/hands-on-llms.svg?style=social) Learn about LLMs, LLMOps, and vector DBs for free by designing, training, and deploying a real-time financial advisor LLM system ~ source code + video & reading materials
 - [llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) (`DataTalksClub`) ![](https://img.shields.io/github/stars/DataTalksClub/llm-zoomcamp.svg?style=social) LLM Zoomcamp - a free online course about building a Q&A system
 - [llm-twin-course](https://github.com/decodingml/llm-twin-course) (`DecodingML`) ![](https://img.shields.io/github/stars/decodingml/llm-twin-course.svg?style=social) Learn for free how to build an end-to-end production-ready LLM & RAG system using LLMOps best practices: ~ source code + 12 hands-on lessons
+- [Mastering AI Agent Evaluation](https://futureagi.com/ebooks/mastering-ai-agent-evaluation/) (`Future AGI`) Free eBook with evaluation playbooks for agent failure modes (planning, memory, tool use) and high-stakes production deployment.
+- [The Agentic RAG Playbook](https://futureagi.com/ebooks/mastering-agentic-rag/) (`Future AGI`) Free eBook on production-ready agentic RAG patterns with measurable business outcomes.
+- [Advanced RAG Patterns](https://futureagi.com/ebooks/advanced-rag-patterns/) (`Future AGI`) Free eBook on enterprise-scale RAG architecture patterns: hybrid retrieval, vector search optimization, and hallucination reduction.
 
 ## LLM Agent Benchmarks
 - [SWE-bench](https://github.com/princeton-nlp/SWE-bench) (`Princeton-NLP`) ![](https://img.shields.io/github/stars/princeton-nlp/SWE-bench.svg?style=social) SWE-bench is a benchmark for evaluating large language models on real world software issues collected from GitHub.
