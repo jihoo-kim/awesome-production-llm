@@ -73,7 +73,6 @@ Newly added projects are marked with 📌.
 
 ## LLM Application / RAG
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) ![](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT.svg?style=social) AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-- [dakera](https://github.com/Dakera-AI/dakera) (`Dakera-AI`) ![](https://img.shields.io/github/stars/Dakera-AI/dakera.svg?style=social) Production-ready persistent memory layer for AI agents: hybrid BM25 + vector retrieval, temporal reasoning, and integrations with LangChain, LlamaIndex, CrewAI, and AutoGen.
 - [langchain](https://github.com/langchain-ai/langchain) (`LangChain`) ![](https://img.shields.io/github/stars/langchain-ai/langchain.svg?style=social) Build context-aware reasoning applications
 - [dify](https://github.com/langgenius/dify) (`LangGenius`) ![](https://img.shields.io/github/stars/langgenius/dify.svg?style=social) Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 - [MetaGPT](https://github.com/geekan/MetaGPT) ![](https://img.shields.io/github/stars/geekan/MetaGPT.svg?style=social) The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
@@ -102,6 +101,7 @@ Newly added projects are marked with 📌.
 - [AgentOps](https://github.com/AgentOps-AI/agentops) (`AgentOps-AI`) ![](https://img.shields.io/github/stars/AgentOps-AI/agentops.svg?style=social) Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen
 - [Lagent](https://github.com/InternLM/lagent) (`InternLM`) ![](https://img.shields.io/github/stars/InternLM/lagent.svg?style=social) A lightweight framework for building LLM-based agents
 - 📌[Chonkie](https://github.com/chonkie-ai/chonkie) (`Chonkie.ai`) ![](https://img.shields.io/github/stars/chonkie-ai/chonkie.svg?style=social) CHONK your texts with Chonkie - The no-nonsense RAG chunking library
+- 📌[dakera-deploy](https://github.com/dakera-ai/dakera-deploy) (`Dakera AI`) ![](https://img.shields.io/github/stars/dakera-ai/dakera-deploy.svg?style=social) Persistent memory layer for LLM agents with semantic search, hybrid retrieval, and MCP support
 
 ## 🔥LLM Extraction / Parsing
 - 📌[MarkItDown](https://github.com/microsoft/markitdown) (`Microsoft`) ![](https://img.shields.io/github/stars/microsoft/markitdown.svg?style=social) Python tool for converting files and office documents to Markdown.
