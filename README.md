@@ -129,6 +129,7 @@ Newly added projects are marked with 📌.
 - [agenta](https://github.com/Agenta-AI/agenta) (`Agenta.ai`) ![](https://img.shields.io/github/stars/Agenta-AI/agenta.svg?style=social) The all-in-one LLM developer platform: prompt management, evaluation, human feedback, and deployment all in one place.
 
 ## LLM Guardrails / Security
+- [Armorer Guard](https://github.com/ArmorerLabs/Armorer-Guard) (`Armorer Labs`) ![](https://img.shields.io/github/stars/ArmorerLabs/Armorer-Guard.svg?style=social) Local Rust scanner and MCP proxy for AI-agent prompt injection, credential leaks, exfiltration, and risky tool calls.
 - [NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) (`NVIDIA`) ![](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails.svg?style=social) NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
 - [guardrails](https://github.com/guardrails-ai/guardrails) (`GuardrailsAI`) ![](https://img.shields.io/github/stars/guardrails-ai/guardrails.svg?style=social) Adding guardrails to large language models.
 - [PurpleLlama](https://github.com/meta-llama/PurpleLlama) (`Meta`) ![](https://img.shields.io/github/stars/meta-llama/PurpleLlama.svg?style=social) Set of tools to assess and improve LLM security.
