@@ -69,6 +69,7 @@ Newly added projects are marked with 📌.
 - [LMDeploy](https://github.com/InternLM/lmdeploy) (`InternLM`) ![](https://img.shields.io/github/stars/InternLM/lmdeploy.svg?style=social) LMDeploy is a toolkit for compressing, deploying, and serving LLMs.
 - [torchchat](https://github.com/pytorch/torchchat) (`PyTorch`) ![](https://img.shields.io/github/stars/pytorch/torchchat.svg?style=social) Run PyTorch LLMs locally on servers, desktop and mobile
 - [RouteLLM](https://github.com/lm-sys/RouteLLM)  (`LMSYS`) ![](https://img.shields.io/github/stars/lm-sys/RouteLLM.svg?style=social) A framework for serving and evaluating LLM routers - save LLM costs without compromising quality!
+- [tuningengines](https://github.com/cerebrixos-org/tuningengines) (`CerebrixOS`) ![](https://img.shields.io/github/stars/cerebrixos-org/tuningengines.svg?style=social) OpenAI-compatible control plane for governed serving, runtime traces, approvals, guardrails, and usage/cost visibility across models, agents, MCP servers, and skills.
 - [LightLLM](https://github.com/ModelTC/lightllm) (`ModelTC`) ![](https://img.shields.io/github/stars/ModelTC/lightllm.svg?style=social) LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.
 
 ## LLM Application / RAG
@@ -127,6 +128,7 @@ Newly added projects are marked with 📌.
 - [phoenix](https://github.com/Arize-ai/phoenix) (`ArizeAI`) ![](https://img.shields.io/github/stars/Arize-ai/phoenix.svg?style=social) AI Observability & Evaluation
 - [Opik](https://github.com/comet-ml/opik) (`Comet`) ![](https://img.shields.io/github/stars/comet-ml/opik.svg?style=social) Open-source end-to-end LLM Development Platform
 - [agenta](https://github.com/Agenta-AI/agenta) (`Agenta.ai`) ![](https://img.shields.io/github/stars/Agenta-AI/agenta.svg?style=social) The all-in-one LLM developer platform: prompt management, evaluation, human feedback, and deployment all in one place.
+- [tuningengines](https://github.com/cerebrixos-org/tuningengines) (`CerebrixOS`) ![](https://img.shields.io/github/stars/cerebrixos-org/tuningengines.svg?style=social) Tenant-aware tracing and governance layer for production LLM systems with policy decisions, approval flows, and activity visibility across model and tool runtimes.
 
 ## LLM Guardrails / Security
 - [NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) (`NVIDIA`) ![](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails.svg?style=social) NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
