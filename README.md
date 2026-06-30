@@ -27,6 +27,8 @@ Newly added projects are marked with 📌.
 - [data-prep-kit](https://github.com/IBM/data-prep-kit) (`IBM`) ![](https://img.shields.io/github/stars/IBM/data-prep-kit.svg?style=social) Open source project for data preparation of LLM application builders
 - [dps](https://github.com/EleutherAI/dps) (`EleutherAI`) ![](https://img.shields.io/github/stars/EleutherAI/dps.svg?style=social) Data processing system for polyglot
 
+
+- [SuperCompress](https://github.com/arjunkshah/supercompress) - Learned prompt compression for production LLM pipelines. Cuts ~65% of tokens before inference with 100% oracle recall. CPU-only ~5K-parameter policy (~60ms latency). `pip install supercompress`.
 ## LLM Training / Finetuning
 - [nanoGPT](https://github.com/karpathy/nanoGPT) (`karpathy`) ![](https://img.shields.io/github/stars/karpathy/nanoGPT.svg?style=social) The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) ![](https://img.shields.io/github/stars/hiyouga/LLaMA-Factory.svg?style=social) A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
