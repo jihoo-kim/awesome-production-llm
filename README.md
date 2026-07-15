@@ -69,6 +69,7 @@ Newly added projects are marked with 📌.
 - [LMDeploy](https://github.com/InternLM/lmdeploy) (`InternLM`) ![](https://img.shields.io/github/stars/InternLM/lmdeploy.svg?style=social) LMDeploy is a toolkit for compressing, deploying, and serving LLMs.
 - [torchchat](https://github.com/pytorch/torchchat) (`PyTorch`) ![](https://img.shields.io/github/stars/pytorch/torchchat.svg?style=social) Run PyTorch LLMs locally on servers, desktop and mobile
 - [RouteLLM](https://github.com/lm-sys/RouteLLM)  (`LMSYS`) ![](https://img.shields.io/github/stars/lm-sys/RouteLLM.svg?style=social) A framework for serving and evaluating LLM routers - save LLM costs without compromising quality!
+- [A3M Router](https://github.com/Das-rebel/a3m-router) - Open-source LLM router with parallel multi-LLM execution and 47+ providers.
 - [LightLLM](https://github.com/ModelTC/lightllm) (`ModelTC`) ![](https://img.shields.io/github/stars/ModelTC/lightllm.svg?style=social) LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.
 
 ## LLM Application / RAG
