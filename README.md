@@ -71,6 +71,8 @@ Newly added projects are marked with 📌.
 - [RouteLLM](https://github.com/lm-sys/RouteLLM)  (`LMSYS`) ![](https://img.shields.io/github/stars/lm-sys/RouteLLM.svg?style=social) A framework for serving and evaluating LLM routers - save LLM costs without compromising quality!
 - [LightLLM](https://github.com/ModelTC/lightllm) (`ModelTC`) ![](https://img.shields.io/github/stars/ModelTC/lightllm.svg?style=social) LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.
 
+- [KV Cache Store](https://kvcachestore.com/) (`kvcachestore`) ![](https://img.shields.io/badge/Website-kvcachestore.com-blue) Hosted KV-cache artifact registry plus an open-source Rust CLI. Precompute, verify, quantize, and share attention states across RAG and long-context prompts to cut prefill cost and latency. ([CLI source](https://github.com/kvcachestore/kvcdn))
+
 ## LLM Application / RAG
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) ![](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT.svg?style=social) AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [langchain](https://github.com/langchain-ai/langchain) (`LangChain`) ![](https://img.shields.io/github/stars/langchain-ai/langchain.svg?style=social) Build context-aware reasoning applications
