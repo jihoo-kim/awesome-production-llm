@@ -162,6 +162,7 @@ Newly added projects are marked with 📌.
 - [DevAI (agent-as-a-judge)](https://github.com/metauto-ai/agent-as-a-judge) (`METAUTO.ai`) ![](https://img.shields.io/github/stars/metauto-ai/agent-as-a-judge.svg?style=social) DevAI, a benchmark consisting of 55 realistic AI development tasks with 365 hierarchical user requirements.
 - 📌[AIOpsLab](https://github.com/microsoft/AIOpsLab) (`Microsoft`) ![](https://img.shields.io/github/stars/microsoft/AIOpsLab.svg?style=social) AIOpsLab is a holistic framework to enable the design, development, and evaluation of autonomous AIOps agents that, additionally, serves the purpose of building reproducible, standardized, interoperable and scalable benchmarks.
 - [natural-plan](https://github.com/google-deepmind/natural-plan) (`Google DeepMind`) ![](https://img.shields.io/github/stars/google-deepmind/natural-plan.svg?style=social) Natural Plan is a realistic planning benchmark in natural language containing 3 key tasks: Trip Planning, Meeting Planning, and Calendar Scheduling.
+- 📌[ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) (`TIGER-AI-Lab`) ![](https://img.shields.io/github/stars/TIGER-AI-Lab/ClawBench.svg?style=social) ClawBench evaluates browser agents on everyday online tasks across live production websites in isolated containers, recording session video, action screenshots, HTTP traffic, browser actions, and agent messages.
 
 ## Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=jihoo-kim/awesome-production-llm&type=Date)](https://star-history.com/#)
